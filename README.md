@@ -1,0 +1,2 @@
+# wipro532
+Azure
